@@ -20,17 +20,19 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         // create the animation block to fade out
+        
         UIView.animate(withDuration: 3.0, animations: {
           //  single animation
-        self.buckysButton.alpha = 0
+        //self.buckysButton.alpha = 0
           
             
-    /* mutiple animations
+            
+    // mutiple animations
             let grow = CGAffineTransform(scaleX: 4, y: 4)
             let angle = CGFloat(90)
             let rotate = CGAffineTransform(rotationAngle: angle)
             self.buckysButton.transform = grow.concatenating(rotate)
-    */
+    
             
         })
     }

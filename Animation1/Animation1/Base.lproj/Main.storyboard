@@ -19,9 +19,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="59F-8F-1vu">
-                                <rect key="frame" x="176" y="431" width="69" height="42"/>
+                                <rect key="frame" x="168" y="585" width="82" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="Bacon">
                                     <color key="titleColor" red="1" green="0.1693988521" blue="0.22198922770000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
